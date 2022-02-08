@@ -1,1 +1,6 @@
-
+enter the value of Base:
+1
+enter the value of Height:
+2
+the area of triangle with base 1.000000 and height 2.000000 is 0.000000
+ 
